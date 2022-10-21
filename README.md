@@ -1,6 +1,5 @@
 ### Opa, sou o Pedro Marques 👋
-- 💻 Estudante Ciência da Computação
-- ⚡ Futuro Analista de Segurança da Informação
+
 ##
 <div align="center">
   <a href="https://github.com/phxdablio">
