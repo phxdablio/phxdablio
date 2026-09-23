@@ -1,4 +1,4 @@
-# 👋 Oii, eu sou o Pedro Marques!
+# 👋 Oi, eu sou o Pedro Marques!
 
 🎓 **Ciência da Computação** | ☁️ **DevOps & Cloud**
 
